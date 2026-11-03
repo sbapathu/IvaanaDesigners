@@ -1,0 +1,1 @@
+from app.models.model import User  # Import your models here to ensure they are registered with SQLAlchemy
